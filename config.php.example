@@ -1,0 +1,10 @@
+<?php
+
+$apiKey = 'OPENAI_API_KEY';
+$root_path = "ROOT_PATH";
+
+$smtp_host = "SMTP_HOST";
+$smtp_port = "SMTP_PORT";
+$smtp_username = "SMTP_USERNAME";
+$smtp_password = "SMTP_PASSWORD";
+$mail_to = "SEND_MAIL_TO";
